@@ -1,3 +1,4 @@
+# 简介
 spider_jd_file.go 将基础信息爬下来写入文件
 
 productIntoDb.go  将信息写入到数据库
