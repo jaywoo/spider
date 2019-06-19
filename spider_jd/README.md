@@ -4,6 +4,8 @@ productIntoDb.go  将信息写入到数据库
 
 util/picasso.go   图床，根据平台不同需要自己重写
 
+result.log  爬取结果实例
+
 执行：./spider_jd_file 或 ./spider_jd_file spider_jd_test_url.log
 
 JD的图站点都是直接渲染的，爬了一下基础信息，品牌，型号等
